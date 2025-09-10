@@ -32,7 +32,7 @@ use DataWarehouse;
 go
 
 --Create Schemas:
-create schema brone;
+create schema bronze;
 go
 create schema silver;
 go
